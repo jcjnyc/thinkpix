@@ -1,0 +1,5 @@
+AuthName "I will know who you are."
+AuthType Basic
+AuthUserFile /home/jcj/.private
+require valid-user
+

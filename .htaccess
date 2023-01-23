@@ -1,0 +1,5 @@
+AuthName "thinkpix"
+AuthType Basic
+AuthUserFile /home/jcj/.private
+require valid-user
+
